@@ -1,7 +1,7 @@
 # demo01
 How to build webapi image.
 
-Step
+### Step to run
 
 1. Pull code to your machine.
 2. Open vscode and open terminal
@@ -15,7 +15,7 @@ Step
 
 *** xxx = image name and v = version ***
 
-Test
+### Test result
 
 open browser --> http://localhost:8080/weatherforecast
 
