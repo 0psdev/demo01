@@ -1,5 +1,13 @@
-# demo01
+## demo01
 How to build webapi image.
+
+## Introduction
+This repo use for study docker with .Net core How to build image and How to run image.
+
+### Software Requirement
+1. Github Desktop
+2. Docker Desktop
+3. vscode
 
 ### Step to run
 
