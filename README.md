@@ -1,2 +1,2 @@
 # demo01
-How to build image webapi
+How to build webapi (.net core) image
