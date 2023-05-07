@@ -13,6 +13,6 @@ Step
 
 Test
 
-open browser http://localhost:8080/weatherforecast
+open browser --> http://localhost:8080/weatherforecast
 
 ![image](https://user-images.githubusercontent.com/104664980/236682043-36b7b01e-a4fd-43b5-9532-8c33c582764c.png)
